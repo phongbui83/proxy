@@ -34,3 +34,4 @@ apt -y install apache2 libapache2-mod-wsgi-py3 htop mc
 # install kerberos client libraries
 export DEBIAN_FRONTEND=noninteractive
 apt -y install krb5-user
+apt -y install ldapsearch
